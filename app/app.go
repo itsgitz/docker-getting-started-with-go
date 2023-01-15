@@ -1,8 +1,8 @@
 package app
 
 import (
-	"go-docker/router"
 	"log"
+	"music-playlist/router"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/recover"

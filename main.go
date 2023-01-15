@@ -1,6 +1,6 @@
 package main
 
-import "go-docker/app"
+import "music-playlist/app"
 
 func main() {
 	app.Run()

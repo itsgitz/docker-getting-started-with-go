@@ -1,7 +1,7 @@
 package router
 
 import (
-	"go-docker/handler"
+	"music-playlist/handler"
 
 	"github.com/gofiber/fiber/v2"
 )
