@@ -10,3 +10,4 @@ COPY --from=builder /go/bin/music-playlist /app/music-playlist
 WORKDIR /app
 
 ENTRYPOINT ["./music-playlist"]
+EXPOSE 3000
